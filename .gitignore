@@ -17,3 +17,5 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+
+*.Designer.cs
