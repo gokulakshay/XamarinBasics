@@ -5,6 +5,7 @@
 # User-specific files
 *.suo
 *.user
+*.bak
 *.sln.docstates
 .vs/
 
@@ -20,4 +21,4 @@ bld/
 
 *.Designer.cs
 /Ìntent and SQLite/SQLite/packages/sqlite-net.1.0.8
-/Ìntent and SQLite/SQLite/SQLite/SQLite.csproj.bak
+
