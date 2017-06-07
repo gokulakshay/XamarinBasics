@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/HelloWorld/HelloWorld/bin/Debug
+/HelloWorld/HelloWorld/bin/Release
+/HelloWorld/HelloWorld/obj
+/HelloWorld/HelloWorld/Resources/AboutResources.txt
+/HelloWorld/HelloWorld/Resources/Resource.Designer.cs
+/HelloWorld/HelloWorld/HelloWorld.csproj.user
+/HelloWorld/HelloWorld/Assets/AboutAssets.txt
